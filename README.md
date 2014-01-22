@@ -1,0 +1,4 @@
+tedmodx
+=======
+
+modx test installation
